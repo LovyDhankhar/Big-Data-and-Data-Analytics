@@ -9,7 +9,7 @@ The dataset contains data about registrations and observations about wheater by 
 145460 rows and 23 columns
 
 ### Sources
-Dataset is obtained from https://www.kaggle.com/jsphyg/weather-dataset-rattle-package/home
+Dataset is obtained from: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package/home
 
 ## About the project(2) - HR Analytics: Job Change of Data Scientists
 The project is intended to forecast whether candidates would leave or remain with the organisation after receiving training. During the sign-up procedure, details about candidates' demographics, education, and practical experience are recorded. The project also tells how likely it is that a candidate will stay with the business after completing its training programme.
@@ -21,4 +21,4 @@ A big data and data science organisation is looking to hire aspiring data scient
 19158 rows and 14 columns
 
 ### Source
-Dataset is obtained from https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists.
+Dataset is obtained from: https://www.kaggle.com/datasets/arashnic/hr-analytics-job-change-of-data-scientists.
